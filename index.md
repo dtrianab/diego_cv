@@ -1,6 +1,6 @@
-## Welcome to Diego's Page
+## Welcome to Diego's CV
 
-You can use the [editor on GitHub](https://github.com/dtrianab/datrianab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You may find my linkedIn profile [here](https://www.linkedin.com/in/diego-alejandro-triana-barreto-69739841/) however here is my resume.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
